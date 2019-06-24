@@ -1,7 +1,7 @@
 architecture-visualization-headstart
 # Architecture Visualization - Headstart
 
-Based on "" at https://visualizingarchitecture.com/the-big-picture-beginners-guide/
+Based on "The Big Picture: Beginners Guide" at https://visualizingarchitecture.com/the-big-picture-beginners-guide/
 
 ## 1. Fundamentals
 
